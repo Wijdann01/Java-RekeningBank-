@@ -23,13 +23,13 @@ Penjelasan Sistem Informasi Akun Bank (Rekening) - PBO
 
 - Dilengkapi validasi untuk mencegah transfer jika nominal lebih besar dari saldo pengirim atau nominal bernilai negatif/nol.
 
-Struktur File
+4. Struktur File
 
 - RekeningBank.java: Class utama yang menyimpan atribut, constructor, enkapsulasi, dan metode bisnis.
 
 - MainBank.java: Class yang berisi main() method untuk menjalankan pengujian dan simulasi skenario.
 
-Skenario Pengujian (MainBank.java)
+5. Skenario Pengujian (MainBank.java)
 
 - Inisialisasi Objek: Membuat 2 objek RekeningBank (Roki & Ncep) dan secara otomatis menambah hitungan totalRekening.
 
