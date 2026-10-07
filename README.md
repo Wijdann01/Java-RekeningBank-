@@ -1,10 +1,7 @@
 # Java-RekeningBank-
 
-Sistem Informasi Akun Bank (Rekening) - PBO
+Penjelasan Sistem Informasi Akun Bank (Rekening) - PBO
 
-Proyek Java sederhana ini dibuat untuk memenuhi Tugas Individu / Studi Kasus mengenai penerapan konsep Enkapsulasi dan Static Keyword dalam Pemrograman Berbasis Objek (PBO).
-
-Fitur & Konsep OOP yang Diterapkan
 
 1. Enkapsulasi (Encapsulation)
 
